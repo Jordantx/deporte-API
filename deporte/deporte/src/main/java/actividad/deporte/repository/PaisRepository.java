@@ -1,6 +1,5 @@
 package actividad.deporte.repository;
 
-import actividad.deporte.model.Representante;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
