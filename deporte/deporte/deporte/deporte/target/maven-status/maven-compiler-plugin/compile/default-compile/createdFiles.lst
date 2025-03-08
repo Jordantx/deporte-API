@@ -1,0 +1,14 @@
+actividad\deporte\service\EquipoService.class
+actividad\deporte\model\Equipo.class
+actividad\deporte\controller\PaisController.class
+actividad\deporte\model\Patrocinador.class
+actividad\deporte\service\JugadorService.class
+actividad\deporte\repository\PatrocinadorRepository.class
+actividad\deporte\service\PatrocinadorService.class
+actividad\deporte\repository\RepresentanteRepository.class
+actividad\deporte\repository\JugadorRepository.class
+actividad\deporte\controller\EquipoController.class
+actividad\deporte\DeporteApplication.class
+actividad\deporte\controller\JugadorController.class
+actividad\deporte\controller\PatrocinadorController.class
+actividad\deporte\service\PaisService.class
